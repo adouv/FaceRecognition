@@ -1,0 +1,7 @@
+D:\ArcsoftFaceTest\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\ArcsoftFaceTest\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\ArcsoftFaceTest\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\ArcsoftFaceTest\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+D:\ArcsoftFaceTest\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\ArcsoftFaceTest\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\ArcsoftFaceTest\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

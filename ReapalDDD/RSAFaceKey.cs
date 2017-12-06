@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ReapalDDD
+{
+    public class RSAFaceKey
+    {
+        public static string RSAprivatekey = @"MIIEowIBAAKCAQEAudFyFxfFnCCvV2GhbCHE6ZOrX7WG/0d0awdzEwsa+h7hSibJ
+JOJB6SSSVH4Zd/NrvWXr6/1SIc7Lw9xiXFPEHxHf9Z9t24OOTCBQmtkopvwZb8gm
+wnkMid9EOtkGlgVHDRysMViypT6ddCtJtCJ7FkgHczML90fVyqlJ0ndbZo66WrIR
+uiS3rEq85P19hFRIjI4MYWVJsJjxdipfCzGYnbeNFruh9EfiLnI+9uk1MZM/uSo8
+snIXg2PqxJZA/SoIeC8S9t7ZHPJU3eIgveVDjiAsrZd3NFX7Sw0TnexGl/JZ5CCv
+gUgOrNil83M5B9p9R4bgN0lH233ZEM5ePTibkQIDAQABAoIBACmLv8OUCBXRZQLX
+jFz96+YBo1aB4s4e7tOjVcJTQFPeJacLpvt9LxlumN0VWKJuJY+yQx5/hCaU8xA2
+rTNRc08zEuz7GXf0IRO6QettVF6JjTJmAOyIXhpRdhLmRUezpGA1IfbiiwbRSikY
+KKGC+BxSPIAwUKOYRx/J2/yXvTLfojsO3mZa9pkRFEoZbPDDPZyUQkSrW8RYpTp+
+r9fyfcv6auhhF/5GxHLeX8NNLnzG8I/77rGLYiCXkqmSh19dtG13Mp4Jw8P5SLs5
+fOSyXeb+1smGn0NAVvXxr8Ld1o+s94TLuY5HKYcFrbOnpyVu5iFBHyxq42hFBbhL
+rCO9LLECgYEA+TMDyC+PDdYl/G/qW135RevB1fn6Hi2DTCCcIO0c/Eqz/g6JF4s0
+c34tj32rrxnQgGGWZXaUScxVL3RM6ktWBP//xz+o1y0ZZUu9mWgnQ2Xa7GgaclMt
+6XkYWBjCe2gKvBvWfSbqimMfIxNhLlWsVdfFrHF0lBwH7So84t6UQt0CgYEAvuOh
+VVkDd+eD5ET3Dp05TXD7eUiW0mp+8y6G/IDjv8yf48Bo50LsfqVRM3QxNecG8pXa
+M48Pp1CLQmDGjZKE5ExtR+Kr9N+QUJPVYj27lETFGzoXGRP39/5JHyoB6vUkIcLa
+JnAWImVOt4bJ0iQ2Kc9VS4GWt/2UUibfHVocjkUCgYAk2HAktzN1nkY7juid3cUv
+m24rjyx2LdCN/vxWufhhLUJzu/51JrX4pZ1i6/foie6ULNmp4uCGENo/i/ibY8wy
+LQ/KjBUQy7BHk+1Ss12qz3KRJctTQA03yhnZXL/Us0tzCMKr+ocPMxy1ePYTfcNf
+ZenqV1QfWg2p+WbLPJG7WQKBgG+sM4H+pSzMYDh2sCH4kMFhS3zUnodSjhouKgIm
+VRar2w4eTkCcwkYE6NA1NWTXVxUr3Y80LnAvioi2nPHNubjljTj0vqxu7bp2AeuL
+OeWvpbAb989QA00tkhGNPbn617x4ha7e+9P7eGWdkQxC6vzisn+NvGK/ErpMy1Ic
+mYARAoGBAI9+KL7X0Ql21c+AUUhwdqIPDNQRlvdepQs+D0zBCldBa9VcShDadSro
+qEL6ZNkQnKU+zyMogV7h3sdtMIygSHKAdWtfuuguqDDgxU/7jmiwu/6s61tBxkSv
+Z5+qiFUerBPoO5IlWeu62hw9K7hmquWdlUON7IqCNVU/f2E869fd";
+    }
+}
